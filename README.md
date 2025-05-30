@@ -1,4 +1,4 @@
-## 📊  Hi there 👋
+## 📊  Hi there, I’m currently working on my portfolio, many my great projects to be loaded soon 👋
 
 ## 🌟 Profil & Expertise
 Professionnelle en biostatistiques, spécialisée en analyse de données pour la recherche clinique et épidémiologique. 
