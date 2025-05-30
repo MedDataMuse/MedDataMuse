@@ -1,6 +1,6 @@
-## 📊  Hi there, I’m currently working on my portfolio, many my great projects to be loaded soon 👋
+## 📊  Hi there, I’m currently working on my portfolio, many of my great projects will be loaded soon 👋
 
-## 🌟 Profil & Expertise
+<!--## 🌟 Profil & Expertise
 Professionnelle en biostatistiques, spécialisée en analyse de données pour la recherche clinique et épidémiologique. 
 Expertise en modélisation prédictive et consultation méthodologique.
 
@@ -35,7 +35,7 @@ Français (maternelle), Anglais (courant), Espagnol (B1).
 
 ## 💡 Centres d'Intérêts
 Technologie blockchain et IA en santé publique, automatisation par IA, développement web, énergie solaire et développement durable.
-
+-->
 <!--
 **MedDataMuse/MedDataMuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
