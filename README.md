@@ -1,15 +1,11 @@
 # 👋Hi there! I'm your Data Intelligence Partner🚀 
 ## Make strategic decisions based on data !📊
 
-#### 💡 My Mission: Transforming Your Data into Strategic Decisions and Concrete Initiatives
+### 💡 My Mission: Transforming Your Data into Strategic Decisions and Concrete Initiatives
 
-### ✨ Why work with me? Because I'm:
+### ✨ Why work with me? I swiftly identify and understand your project's unique needs
 
-Proactive & Innovative 💡
-
-Clear Communication 🗣️
-
-Impact-Oriented 🎯
+💡Proactive & Innovative, 🗣️Clear Communication, 🎯Impact-Oriented 
 
 🔄 Adaptable & Transferable Skills: My expertise is readily adaptable and transferable to any professional domain or activity
 
@@ -38,7 +34,7 @@ Impact-Oriented 🎯
 ⚡ I'm a quick study and can master any business intelligence software, despite their extensive variety(it's crazy how many there are!😄),
 often preferring to custom-program specific functions in RStudio for tailored solutions
 
-- 🔭 I’m currently working on: statistical analysis for clinical trials, longitudinal studies, and refining statistical sections in articles  
+- 🔭 I’m currently working on: statistical analysis for clinical trials, longitudinal studies, questionnaires and refining statistics in articles  
 - 🌱 I’m currently learning: MCP applications in AI agents
 - 👯 I’m looking to collaborate on impactful data analysis and data science projects
 - 💬 Ask me about best practices for data collection, preparation, exploration, and transforming data into profound insights
