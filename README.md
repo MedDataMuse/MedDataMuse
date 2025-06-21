@@ -40,8 +40,8 @@ Impact-Oriented 🎯
 - 🔭 I’m currently working on: clinical trials, longitudinal studies, intervention in scientific articles' statistic sections to comply with reviewers
 - 🌱 I’m currently learning: MCP use in AI agents
 - 👯 I’m looking to collaborate on data analysis and data science projects
-- 💬 Ask me about anything about methods to collect, prepare, explore data to bringing deep insight about the activities
-## Explore my repositories and envision the impactful projects we could build together!
+- 💬 Ask me about anything about methods to collect, prepare, explore data to bringing deep insights
+## 👇🏽 Explore my work and discover the impactful projects we could build together!⬇️
 
  <!--- add list of softwares>
 
