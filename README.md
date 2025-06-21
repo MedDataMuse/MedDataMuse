@@ -35,7 +35,8 @@ Impact-Oriented 🎯
 
 🔁Process Automation ⛏️Data Mining 💬Scientific Communication
 
-⚡ I'm a quick study and can master any business intelligence software, despite the huge number of options available (it's crazy how many there are!😄)
+⚡ I'm a quick study and can master any business intelligence software, despite their extensive variety(it's crazy how many there are!😄),
+often preferring to custom-program specific functions in RStudio for tailored solutions
 
 - 🔭 I’m currently working on: clinical trials, longitudinal studies, intervention in scientific articles' statistic sections to comply with reviewers
 - 🌱 I’m currently learning: MCP use in AI agents
