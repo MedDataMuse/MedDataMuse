@@ -38,7 +38,7 @@ Impact-Oriented 🎯
 ⚡ I'm a quick study and can master any business intelligence software, despite their extensive variety(it's crazy how many there are!😄),
 often preferring to custom-program specific functions in RStudio for tailored solutions
 
-- 🔭 I’m currently working on: statistical analysis for clinical trials, longitudinal studies, and refining statistical sections in articles for reviewer compliance
+- 🔭 I’m currently working on: statistical analysis for clinical trials, longitudinal studies, and refining statistical sections in articles  
 - 🌱 I’m currently learning: MCP applications in AI agents
 - 👯 I’m looking to collaborate on impactful data analysis and data science projects
 - 💬 Ask me about best practices for data collection, preparation, exploration, and transforming data into profound insights
