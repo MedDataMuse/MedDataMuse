@@ -13,7 +13,7 @@ Impact-Oriented 🎯
 
 🔄 Adaptable & Transferable Skills: My expertise is readily adaptable and transferable to any professional domain or activity
 
-✅ Transparent & Understandable Work: I deliver clear work, with well-documented methodologies that are comprehensible even to non-statisticians
+✅ Transparent & Understandable: I deliver clear work, with well-documented methodologies that are comprehensible to non-statisticians
 
 ### 🎯 My core strengths:
 
@@ -33,7 +33,7 @@ Impact-Oriented 🎯
 
 🗃️Data Management 📊Advanced Statistics 👁️‍🗨️Data Visualization/Dashboard  ⚙️Machine Learning 
 
-🔁Process Automation ⛏️Data Mining 💬Scientific Communication
+🔁Process Automation ⛏️Data Mining 💬Scientific Communication ✍️Protocol design for mission/study completion
 
 ⚡ I'm a quick study and can master any business intelligence software, despite their extensive variety(it's crazy how many there are!😄),
 often preferring to custom-program specific functions in RStudio for tailored solutions
