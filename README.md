@@ -1,52 +1,47 @@
-## 📊  Hi there, I’m currently working on my portfolio, many of my great projects will be loaded soon 👋
+# 👋Hi there! I'm your Data Intelligence Partner🚀 
+## Make strategic decisions based on data !📊
 
-<!--## 🌟 Profil & Expertise
-Professionnelle en biostatistiques, spécialisée en analyse de données pour la recherche clinique et épidémiologique. 
-Expertise en modélisation prédictive et consultation méthodologique.
+#### 💡 My Mission: Transforming Your Data into Strategic Decisions and Concrete Initiatives
 
-## 🛠️ Compétences Clés
-#### Statistiques appliquées
+### ✨ Why work with me? Because I'm:
 
-#### Programmation 
+Proactive & Innovative 💡
 
-#### Connaissances métier
+Clear Communication 🗣️
 
-#### Outils : 
-R, Python, SQL
-#### Autres : 
-Enseignement , automatisation, IA
+Impact-Oriented 🎯
 
-## 💼 Expérience Professionnelle Principale
-#### Biostatisticienne spécialisée (Actuel) 
+🔄 Adaptable & Transferable Skills: My expertise is readily adaptable and transferable to any professional domain or activity
 
-#### Vacataire d'enseignement en épidémiologie (Actuel) 
+✅ Transparent & Understandable Work: I deliver clear work, with well-documented methodologies that are comprehensible even to non-statisticians
 
-#### Infirmière diplômée d'État
+### 🎯 My core strengths:
 
-## 🎓 Formation Principale
-#### Master 2 Méthodologie et statistiques en recherche biomédicale
+📊 Quantitative Analysis & Predictive Modeling
 
-#### Master 1 et 2 Nutrition humaine et santé publique
+📈 Advanced statistical models for clinical and epidemiological research
 
-#### Diplôme d'État en soins infirmiers
+🧠 Methodological Consulting: I help investigators and medical students with their studies 
 
-## 🌐 Langues
-Français (maternelle), Anglais (courant), Espagnol (B1).
+### 🤖 Data Science & AI:
 
-## 💡 Centres d'Intérêts
-Technologie blockchain et IA en santé publique, automatisation par IA, développement web, énergie solaire et développement durable.
--->
-<!--
-**MedDataMuse/MedDataMuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Passionate about innovation, I explore how data science and AI can solve real-world problems
 
-Here are some ideas to get you started:
+### 🛠️ My key skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻Programming (R, Python, SQL)
+
+🗃️Data Management 📊Advanced Statistics 👁️‍🗨️Data Visualization/Dashboard  ⚙️Machine Learning 
+
+🔁Process Automation ⛏️Data Mining 💬Scientific Communication
+
+⚡ I'm a quick study and can master any business intelligence software, despite the huge number of options available (it's crazy how many there are!😄)
+
+- 🔭 I’m currently working on: clinical trials, longitudinal studies, intervention in scientific articles' statistic sections to comply with reviewers
+- 🌱 I’m currently learning: MCP use in AI agents
+- 👯 I’m looking to collaborate on data analysis and data science projects
+- 💬 Ask me about anything about methods to collect, prepare, explore data to bringing deep insight about the activities
+## Explore my repositories and envision the impactful projects we could build together!
+
+ <!--- add list of softwares>
+
