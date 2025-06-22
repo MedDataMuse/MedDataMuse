@@ -8,7 +8,7 @@ I am committed to delivering precise and relevant results by swiftly grasping th
 
 My expertise is highly adaptable across any professional domain. I guarantee full transparency, with rigorously documented methodologies that are comprehensible even to non-statisticians. Furthermore, I implement strict data quality control at every stage of the process.
 
-For seamless collaboration, I provide didactic insights that strengthen your teams' skills, thereby increasing their autonomy in data retrieval and utilization.. Follow the link to my interactive CV to know more about me (bottom of the left panel).
+For seamless collaboration, I provide didactic insights that strengthen your teams' skills, thereby increasing their autonomy in data retrieval and utilization.. Follow the link to my interactive CV to know more about me.
 
 ## Make strategic decisions based on data 🚀!
 
