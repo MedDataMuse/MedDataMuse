@@ -20,16 +20,16 @@ For seamless collaboration, I provide didactic insights that strengthen your tea
 
 ### 🛠️ Key Skills:
 
-* **Programming:** 💻 R, Shiny, Python, SQL
-* **Data Management:** 🗃️
-* **Advanced Statistics:** 📊
-* **Data Visualization/Dashboard Creation:** 👁️‍🗨️
-* **Data Storytelling:** 📈
-* **Machine Learning:** ⚙️
-* **Process Automation:** 🔁
-* **Data Mining:** ⛏️
-* **Scientific Communication:** 💬
-* **Protocol Design:** ✍️ For mission/study completion.
+* **Programming** 💻 R, Shiny, Python, SQL
+* **Data Management** 🗃️
+* **Advanced Statistics** 📊
+* **Data Visualization/Dashboard** 👁️‍🗨️
+* **Data Storytelling** 📈
+* **Machine Learning** ⚙️
+* **Process Automation** 🔁
+* **Data Mining** ⛏️
+* **Scientific Communication** 💬
+* **Protocol Design** ✍️ For mission/study completion.
 * **Intellectual Curiosity & Continuous Learning** 🧠
 
 I'm a quick study, rapidly mastering any business intelligence software despite their extensive variety, often custom-programming functions in RStudio for tailored solutions.
