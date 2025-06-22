@@ -10,7 +10,7 @@ I swiftly identify and understand your project's unique needs, ensuring precisio
 ### 🎯 My Core Strengths:
 
 * **Quantitative Analysis & Predictive Modeling:** Leveraging advanced statistical models for robust insights.
-* **Methodological Consulting:** Guiding investigators and medical students with their studies.
+* **Methodological Consulting:** Guiding investigators and medical students with their projects.
 * **Data Science & AI:** Passionate about innovation, I explore how data science and AI can solve real-world problems.
 
 ### 🛠️ Key Skills:
