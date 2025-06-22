@@ -1,44 +1,41 @@
-# 👋Hi there! I'm your Data Intelligence Partner🚀 
-## Make strategic decisions based on data !📊
+# 👋 Hello! I'm your Data Intelligence Partner 
 
-### 💡 My Mission: Transforming Your Data into Strategic Decisions and Concrete Initiatives
+### ✨ Why Partner With Me?
 
-### ✨ Why work with me? I swiftly identify and understand your project's unique needs
+I will transform your data into strategic decisions and concrete initiatives.
+I swiftly identify and understand your project's unique needs, ensuring precision and relevance. My approach is proactive, innovative, and focused on delivering clear, impactful results. My expertise is highly adaptable across any professional domain, and I provide transparent work with meticulously documented methodologies that are comprehensible even to non-statisticians. I also implement strict data quality control throughout the process.
 
-💡Proactive & Innovative, 🗣️Clear Communication, 🎯Impact-Oriented 
+## Make strategic decisions based on data 🚀!
 
-🔄 Adaptable & Transferable Skills: My expertise is readily adaptable and transferable to any professional domain or activity
+### 🎯 My Core Strengths:
 
-✅ Transparent & Understandable: I deliver clear work, with well-documented methodologies that are comprehensible to non-statisticians
+* **Quantitative Analysis & Predictive Modeling:** Leveraging advanced statistical models for robust insights.
+* **Methodological Consulting:** Guiding investigators and medical students with their studies.
+* **Data Science & AI:** Passionate about innovation, I explore how data science and AI can solve real-world problems.
 
-### 🎯 My core strengths:
+### 🛠️ Key Skills:
 
-📊 Quantitative Analysis & Predictive Modeling
+* **Programming:** 💻 R, Python, SQL
+* **Data Management:** 🗃️
+* **Advanced Statistics:** 📊
+* **Data Visualization/Dashboard Creation:** 👁️‍🗨️
+* **Machine Learning:** ⚙️
+* **Data Storytelling:** 📈
+* **Process Automation:** 🔁
+* **Data Mining:** ⛏️
+* **Scientific Communication:** 💬
+* **Protocol Design:** ✍️ For mission/study completion.
 
-📈 Advanced statistical models for clinical and epidemiological research
+I'm a quick study, rapidly mastering any business intelligence software despite their extensive variety, often custom-programming functions in RStudio for tailored solutions.
 
-🧠 Methodological Consulting: I help investigators and medical students with their studies 
+### 🌱 What I'm Up To:
 
-### 🤖 Data Science & AI:
+* **🔭 Currently Working On:** Statistical analysis for clinical trials, longitudinal studies, questionnaires, and ensuring statistical rigor in scientific publications.
+* **🧠 Currently Learning:** MCP applications in AI agents.
+* **🤝 Looking to Collaborate On:** Impactful data analysis and data science projects.
+* **💬 Ask Me About:** Best practices for data collection, preparation, exploration, and transforming data into profound insights.
 
-✨ Passionate about innovation, I explore how data science and AI can solve real-world problems
-
-### 🛠️ My key skills:
-
-💻Programming (R, Python, SQL)
-
-🗃️Data Management 📊Advanced Statistics 👁️‍🗨️Data Visualization/Dashboard  ⚙️Machine Learning 
-
-🔁Process Automation ⛏️Data Mining 💬Scientific Communication ✍️Protocol design for mission/study completion
-
-⚡ I'm a quick study and can master any business intelligence software, despite their extensive variety(it's crazy how many there are!😄),
-often preferring to custom-program specific functions in RStudio for tailored solutions
-
-- 🔭 I’m currently working on: statistical analysis for clinical trials, longitudinal studies, questionnaires and refining statistics in articles  
-- 🌱 I’m currently learning: MCP applications in AI agents
-- 👯 I’m looking to collaborate on impactful data analysis and data science projects
-- 💬 Ask me about best practices for data collection, preparation, exploration, and transforming data into profound insights
-## 👇🏽 Explore my work and discover the impactful projects we could build together!⬇️
+## 👇🏽 Explore my work and discover the impactful projects we could build together! ⬇️
 
  <!--- add list of softwares>
 
