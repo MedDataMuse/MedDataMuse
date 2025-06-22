@@ -15,7 +15,7 @@ I swiftly identify and understand your project's unique needs, ensuring precisio
 
 ### 🛠️ Key Skills:
 
-* **Programming:** 💻 R, Python, SQL
+* **Programming:** 💻 R, Shiny, Python, SQL
 * **Data Management:** 🗃️
 * **Advanced Statistics:** 📊
 * **Data Visualization/Dashboard Creation:** 👁️‍🗨️
