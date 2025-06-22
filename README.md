@@ -19,8 +19,8 @@ I swiftly identify and understand your project's unique needs, ensuring precisio
 * **Data Management:** 🗃️
 * **Advanced Statistics:** 📊
 * **Data Visualization/Dashboard Creation:** 👁️‍🗨️
-* **Machine Learning:** ⚙️
 * **Data Storytelling:** 📈
+* **Machine Learning:** ⚙️
 * **Process Automation:** 🔁
 * **Data Mining:** ⛏️
 * **Scientific Communication:** 💬
@@ -35,7 +35,7 @@ I'm a quick study, rapidly mastering any business intelligence software despite 
 * **🤝 Looking to Collaborate On:** Impactful data analysis and data science projects.
 * **💬 Ask Me About:** Best practices for data collection, preparation, exploration, and transforming data into profound insights.
 
-## 👇🏽 Explore my work and discover the impactful projects we could build together! ⬇️
+## 👇🏽 Explore my work and discover the impactful projects we could build together ⬇️
 
  <!--- add list of softwares>
 
