@@ -2,8 +2,13 @@
 
 ### ✨ Why Partner With Me?
 
-I will transform your data into strategic decisions and concrete initiatives.
-I swiftly identify and understand your project's unique needs, ensuring precision and relevance. My approach is proactive, innovative, and focused on delivering clear, impactful results. My expertise is highly adaptable across any professional domain, and I provide transparent work with meticulously documented methodologies that are comprehensible even to non-statisticians. I also implement strict data quality control throughout the process. To foster seamless collaboration, I provide didactic insights that empower your teams with valuable skills, enhancing their autonomy in data retrieval. Follow the link to my interactive CV to know more about me (bottom of the left panel).
+#### My objective is clear: to transform your data into strategic decisions and concrete initiatives.
+
+I am committed to delivering precise and relevant results by swiftly grasping the unique specificities of each project. My approach is proactive, innovative, and focused on producing clear, impactful work, with a priority on rapid delivery and achieving objectives.
+
+My expertise is highly adaptable across any professional domain. I guarantee full transparency, with rigorously documented methodologies that are comprehensible even to non-statisticians. Furthermore, I implement strict data quality control at every stage of the process.
+
+For seamless collaboration, I provide didactic insights that strengthen your teams' skills, thereby increasing their autonomy in data retrieval and utilization.. Follow the link to my interactive CV to know more about me (bottom of the left panel).
 
 ## Make strategic decisions based on data 🚀!
 
