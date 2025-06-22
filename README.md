@@ -25,6 +25,7 @@ I swiftly identify and understand your project's unique needs, ensuring precisio
 * **Data Mining:** ⛏️
 * **Scientific Communication:** 💬
 * **Protocol Design:** ✍️ For mission/study completion.
+* **Intellectual Curiosity & Continuous Learning** 🧠
 
 I'm a quick study, rapidly mastering any business intelligence software despite their extensive variety, often custom-programming functions in RStudio for tailored solutions.
 
