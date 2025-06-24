@@ -8,7 +8,7 @@ I am committed to delivering precise and relevant results by swiftly grasping th
 
 My expertise is highly adaptable across any professional domain. I guarantee full transparency, with rigorously documented methodologies that are comprehensible even to non-statisticians. Furthermore, I implement strict data quality control at every stage of the process.
 
-For seamless collaboration, I provide didactic insights that strengthen your teams' skills, thereby increasing their autonomy in data retrieval and utilization.. Follow the link to my interactive CV to know more about me.
+For seamless collaboration, I provide didactic insights that strengthen your teams' skills, thereby increasing their autonomy in data retrieval and utilization. Follow the link to my interactive CV to know more about me.
 
 ## Make strategic decisions based on data 🚀!
 
@@ -20,17 +20,10 @@ For seamless collaboration, I provide didactic insights that strengthen your tea
 
 ### 🛠️ Key Skills:
 
-* **Programming** 💻 R, Shiny, Python, SQL
-* **Data Management** 🗃️
-* **Advanced Statistics** 📊
-* **Data Visualization/Dashboard** 👁️‍🗨️
-* **Data Storytelling** 📈
-* **Machine Learning** ⚙️
-* **Process Automation** 🔁
-* **Data Mining** ⛏️
-* **Scientific Communication** 💬
-* **Protocol Design** ✍️ For mission/study completion.
-* **Intellectual Curiosity & Continuous Learning** 🧠
+* **Programming** 💻 (R, Shiny, Python, SQL) **Data Management** 🗃️ **Advanced Statistics** 📊
+* **Data Visualization/Dashboard** 👁️‍🗨️ **Data Storytelling** 📈 **Machine Learning** ⚙️
+* **Process Automation** 🔁 **Data Mining** ⛏️ **Scientific Communication** 💬
+* **Protocol Design** ✍️ **Intellectual Curiosity & Continuous Learning** 🧠
 
 I'm a quick study, rapidly mastering any business intelligence software despite their extensive variety, often custom-programming functions in RStudio for tailored solutions.
 
