@@ -91,7 +91,11 @@
 
 <h2 align="center">Make strategic decisions based on data 🚀</h2>
 
-<p align="center"><img src="1.png" alt="Illustration" width="350"/></p>
+<p align="center">
+  <img src="1.png" width="350"/>
+  <img src="10.jpeg" width="300"/>
+</p>
+
 <p align="center">My expertise is highly adaptable across any professional domain, like marketing, business or retail shops.</p> <p align="center">Get full transparency, with rigorously documented methodologies that are comprehensible even to non-statisticians.</p> 
 <p align="center">I'm a quick study, rapidly mastering any business intelligence software despite their extensive variety. </p>
 <p align="center"I often custom-programming functions in RStudio for tailored solutions.</p>
@@ -99,6 +103,7 @@
 
 
 ## 👇🏽 Explore my work and discover the impactful projects we could build together ⬇️
+
  <!--- add list of softwares>
 # 👋 Hello! I'm your Data Intelligence Partner 
 
