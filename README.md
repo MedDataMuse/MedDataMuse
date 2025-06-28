@@ -7,7 +7,7 @@
 
 ## ✨ Why Partner With Me?
 
-### My objective is clear: helping you ask the right questions, collect the right data, and draw the right conclusions to advance medical science.
+### I will make sure you ask the right questions, collect the right data, and draw the right conclusions to advance medical science.
 **I will assist you to:**
 
 * **Design** your study to get meaningful answers.
@@ -44,6 +44,8 @@ Furthermore, I implement strict data quality control at every stage of the proce
 * 💬**Protocol Design** ✍️**Scientific Communication** 📊**Advanced Statistics** 
 * **Programming** 💻 (R, Shiny, Python, SQL) **Data Management** 🗃️ **Data Visualization** 👁️‍🗨️
 
+* I'm a quick study, rapidly mastering any business intelligence software despite their extensive variety, often custom-programming functions in RStudio for tailored solutions.
+
   
  <!--- add list of softwares>
  my goal: to transform your data into strategic decisions and concrete initiatives.
@@ -53,8 +55,6 @@ Furthermore, I implement strict data quality control at every stage of the proce
  **Data Storytelling** 📈 **Machine Learning** ⚙️
 * **Process Automation** 🔁 **Data Mining** ⛏️ 
 *  **Intellectual Curiosity & Continuous Learning** 🧠
-
-I'm a quick study, rapidly mastering any business intelligence software despite their extensive variety, often custom-programming functions in RStudio for tailored solutions.
 
 ### 🌱 What I'm Up To:
 
