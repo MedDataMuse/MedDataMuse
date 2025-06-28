@@ -1,4 +1,4 @@
-<h1 align="center">👋 Je vous guide pour votre de Analyse des Données</h1>
+<h1 align="center">👋 Hello! Je suis votre Spécialiste en Analyse de Données</h1>
 
 <p align="center"><img src="12.png" alt="Illustration" width="850"/></p>
 
