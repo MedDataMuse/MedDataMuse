@@ -102,4 +102,4 @@
 <p align="center">Je développe souvent des fonctions personnalisées dans RStudio pour des solutions sur mesure.</p>
 <p align="center">En outre, je mets en œuvre un contrôle strict de la qualité des données à chaque étape du processus.</p>
 
-## 👇🏽 Découvrez mes travaux et imaginons ensemble des projets percutants à réaliser ⬇️
+## [👇🏽 Découvrez mes travaux et imaginons ensemble des projets percutants à réaliser ⬇️](https://github.com/MedDataMuse?tab=repositories)
