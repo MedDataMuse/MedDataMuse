@@ -52,9 +52,9 @@
 
 <p align="center">I am committed to delivering precise and relevant results by swiftly grasping the unique specificities of each project.</p>
 
-<p align="center">My approach is proactive, innovative, and focused on producing clear, impactful work, with a priority on rapid delivery and achieving objectives.</p>
+<p align="center">My approach is proactive, and focused on producing clear, impactful work, with a priority on rapid delivery and achieving objectives.</p>
 
-<p align="center">For seamless collaboration, I provide didactic insights that strengthen your teams' skills, thereby increasing their autonomy in data utilization.</p>
+<p align="center">For seamless collaboration, I provide didactic insights that strengthen your skills, thereby increasing your autonomy in data utilization.</p>
 
 ### 🎯 My Core Strengths
 
