@@ -1,4 +1,4 @@
-<h1 align="center">👋 Bonjour ! Votre Partenaire en Intelligence des Données</h1>
+<h1 align="center">👋 Je vous guide pour votre de Analyse des Données</h1>
 
 <p align="center"><img src="12.png" alt="Illustration" width="850"/></p>
 
@@ -54,7 +54,7 @@
 
 <p align="center">Mon approche est proactive et axée sur des travaux clairs et percutants, avec une priorité sur la rapidité et l'atteinte des objectifs.</p>
 
-<p align="center">Pour une collaboration fluide, je propose des explications didactiques renforçant vos compétences, augmentant ainsi votre autonomie dans l’utilisation des données.</p>
+<p align="center">Pour une collaboration fluide, je propose des explications didactiques qui renforçent vos compétences et augmentant ainsi votre autonomie.</p>
 
 ### 🎯 Mes principales forces
 
@@ -67,3 +67,39 @@
     </td>
     <td>
       <ul>
+      <li><b>Analyse quantitative & modélisation prédictive :</b> Exploitation de modèles statistiques avancés pour des insights robustes.</li>
+        <br>
+        <li><b>Consultation méthodologique :</b> Accompagnement des chercheurs et étudiants en médecine dans leurs projets.</li>
+        <br>
+        <li><b>Science des données & IA :</b> Passionnée par l'innovation, j’explore comment la science des données et l'IA résolvent des problèmes concrets.</li>
+        <br>
+        <li><b>💬 Conception de protocoles</b></li>
+        <br>
+        <li><b>✍️ Communication scientifique </b></li>
+        <br>
+        <li><b>📊 Statistiques avancées</b> </li>
+        <br>
+        <li><b>💻 Programmation (R, Shiny, Python, SQL)</b></li>
+        <br>
+        <li><b>🗃️ Gestion des données</b> </li>
+        <br>
+        <li><b>👁️‍🗨️ Visualisation des données</b> </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">Prenez des décisions stratégiques basées sur les données 🚀</h2>
+
+<p align="center">
+  <img src="1.png" width="350"/>
+  <img src="10.jpeg" width="300"/>
+</p>
+
+<p align="center">Mon expertise est hautement adaptable à tout domaine professionnel, comme le marketing, les affaires ou les commerces de détail.</p>
+<p align="center">Bénéficiez d’une transparence totale grâce à des méthodologies rigoureusement documentées, compréhensibles pour tous.</p>
+<p align="center">J’apprends rapidement à maîtriser tout logiciel d’intelligence d’affaires, malgré leur diversité étendue.</p>
+<p align="center">Je développe souvent des fonctions personnalisées dans RStudio pour des solutions sur mesure.</p>
+<p align="center">En outre, je mets en œuvre un contrôle strict de la qualité des données à chaque étape du processus.</p>
+
+## 👇🏽 Découvrez mes travaux et imaginons ensemble des projets percutants à réaliser ⬇️
