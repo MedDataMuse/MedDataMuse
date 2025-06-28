@@ -1,3 +1,89 @@
+<h1 align="center">👋 Hello! I'm your Data Intelligence Partner</h1>
+
+<p align="center"><img src="12.png" alt="Illustration" width="850"/></p>
+
+## ✨ Why Partner With Me?
+
+
+<table>
+  <tr>
+    <td>
+      <img src="11.png" width="450">
+    </td>
+    <td>
+      <ul>
+        <li><b>Save Time and Resources:</b> By doing things right the first time.</li>
+        <li><b>Produce More Reliable and Valid Results:</b> Leading to stronger conclusions.</li>
+        <li><b>Increase the Impact and Publishability of Your Work:</b> Contributing meaningfully to medical knowledge.</li>
+        <li><b>Ensure Ethical Conduct:</b> By minimizing errors and misinterpretations.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+### Ask the right questions, collect the right data, and draw the right conclusions to advance medical science
+**I will assist you to:**
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li><b>Design</b> your study to get meaningful answers.</li>
+        <li><b>Go</b> through data analysis, even if you're not a 'math person'.</li>
+        <li><b>Strengthen</b> your thesis, publications, and presentations.</li>
+        <li><b>Optimize</b> your study design for maximum impact and efficiency.</li>
+        <li><b>Unlock</b> deeper insights from your data using advanced analytical techniques.</li>
+        <li><b>Elevate</b> the scientific rigor and publication potential of your research.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="4.png" width="350">
+    </td>
+  </tr>
+</table>
+
+I am committed to delivering precise and relevant results by swiftly grasping the unique specificities of each project. 
+
+My approach is proactive, innovative, and focused on producing clear, impactful work, with a priority on rapid delivery and achieving objectives.
+
+For seamless collaboration, I provide didactic insights that strengthen your teams' skills, thereby increasing their autonomy in data retrieval and utilization.
+
+<h2 align="center">Make strategic decisions based on data 🚀!</h2>
+
+<p align="center"><img src="1.png" alt="Illustration" width="350"/></p>
+<p align="center">My expertise is highly adaptable across any professional domain, like marketing, business or retail shops.</p> <p align="center">Get full transparency, with rigorously documented methodologies that are comprehensible even to non-statisticians.</p> 
+<p align="center">I'm a quick study, rapidly mastering any business intelligence software despite their extensive variety. </p>
+<p align="center"I often custom-programming functions in RStudio for tailored solutions.</p>
+<p align="center">Furthermore, I implement strict data quality control at every stage of the process.</p>
+
+### 🎯 My Core Strengths:
+
+  <table>
+  <tr>
+    <td>
+      <img src="7.png" width="600">
+      <br>
+      <img src="8.jpeg" width="600">
+    </td>
+    <td>
+      <ul>
+        <li><b>Quantitative Analysis & Predictive Modeling:</b> Leveraging advanced statistical models for robust insights.</li>
+        <li><b>Methodological Consulting:</b> Guiding investigators and medical students with their projects.</li>
+        <li><b>Data Science & AI:</b> Passionate about innovation, I explore how data science and AI can solve real-world problems.</li>
+        <li><b>💬 Protocol Design</b></li>
+        <li><b>✍️ Scientific Communication </b></li>
+        <li><b>📊 Advanced Statistics</b> </li>
+        <li><b>💻 Programming (R, Shiny, Python, SQL)</b></li>
+        <li><b>🗃️ Data Management</b> </li>
+        <li><b>👁️‍🗨️ Data Visualization</b> </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+## 👇🏽 Explore my work and discover the impactful projects we could build together ⬇️
+ <!--- add list of softwares>
 # 👋 Hello! I'm your Data Intelligence Partner 
 
 * **Save Time and Resources:** By doing things right the first time.
@@ -47,7 +133,7 @@ Furthermore, I implement strict data quality control at every stage of the proce
 * I'm a quick study, rapidly mastering any business intelligence software despite their extensive variety, often custom-programming functions in RStudio for tailored solutions.
 
   
- <!--- add list of softwares>
+
  my goal: to transform your data into strategic decisions and concrete initiatives.
 
 ### 🛠️ Key Skills:
