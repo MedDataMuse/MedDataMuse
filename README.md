@@ -6,8 +6,7 @@
 
   <p align="center"><img src="11.png" width="400"></p>
 
-
-<table>
+<p align="center"><table>
   <tr>
     <td>
       <ul>
@@ -21,7 +20,7 @@
       </ul>
     </td>
   </tr>
-</table>
+</table></p>
 
 
 ### Posez les bonnes questions, collectez les bonnes données et tirez les bonnes conclusions pour faire avancer la science médicale
