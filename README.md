@@ -6,28 +6,24 @@
 
 ---
 
-## ✨ Pourquoi collaborer avec moi ?
+## <p align="center">✨ Pourquoi collaborer avec moi ?</p>
 
 <p align="center">
   <img src="11.png" width="400">
 </p>
 
-<table align="center">
-  <tr>
-    <td>
-      <ul>
-        <li><b>Gagnez du temps et des ressources :</b> En faisant les choses bien dès le départ.</li>
-        <li><b>Obtenez des résultats plus fiables et valides :</b> Permettant des conclusions plus solides.</li>
-        <li><b>Augmentez l’impact de vos travaux :</b> En contribuant de manière significative aux connaissances médicales.</li>
-        <li><b>Assurez une conduite éthique :</b> En minimisant les erreurs et les interprétations erronées.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+
+<p align="center"><b>Gagnez du temps et des ressources :</b> En faisant les choses bien dès le départ.</p>
+
+<p align="center"><b>Obtenez des résultats plus fiables et valides :</b> Permettant des conclusions plus solides.</li></p>
+
+<p align="center"><b>Augmentez l’impact de vos travaux :</b> En contribuant de manière significative aux connaissances médicales.</li></p>
+<p align="center"><b>Assurez une conduite éthique :</b> En minimisant les erreurs et les interprétations erronées.</li></p>
+
 
 ---
 
-<h3 align="center">Posez les bonnes questions, collectez les bonnes données et tirez les bonnes conclusions pour faire avancer la science médicale</h3>
+<h3 align="center">✔️Posez les bonnes questions, ✔️collectez les bonnes données et ✔️tirez les bonnes conclusions</h3>
 
 <p align="center">
   <img src="4.png" width="400">
