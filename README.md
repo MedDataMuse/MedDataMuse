@@ -6,21 +6,21 @@
 
   <p align="center"><img src="11.png" width="400"></p>
 
-<p align="center"><table>
+<table>
   <tr>
-    <td>
       <ul>
+        <td align="center">
         <li><b>Gagnez du temps et des ressources :</b> En faisant les choses bien dès le départ.</li>
         <br>
         <li><b>Obtenez des résultats plus fiables et valides :</b> Permettant des conclusions plus solides.</li>
         <br>
-        <li><b>Augmentez l’impact et la publication de vos travaux :</b> En contribuant de manière significative aux connaissances médicales.</li>
+        <li><b>Augmentez l’impact de vos travaux :</b> En contribuant de manière significative aux connaissances médicales.</li>
         <br>
         <li><b>Assurez une conduite éthique :</b> En minimisant les erreurs et les interprétations erronées.</li>
+      </td>
       </ul>
-    </td>
   </tr>
-</table></p>
+</table>
 
 
 ### Posez les bonnes questions, collectez les bonnes données et tirez les bonnes conclusions pour faire avancer la science médicale
@@ -48,7 +48,7 @@
   </tr>
 </table>
 
-<p align="center">Je fournis des résultats précis et pertinents avec une compréhension rapidement les spécificités uniques de chaque projet.</p>
+### Compréhension rapidement les spécificités uniques de chaque projet
 
 <p align="center">Mon approche est proactive et axée sur des travaux clairs et percutants, avec une priorité sur la rapidité et l'atteinte des objectifs.</p>
 
