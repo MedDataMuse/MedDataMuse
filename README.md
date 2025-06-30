@@ -4,7 +4,7 @@
   <img src="12.png" alt="Illustration" width="850"/>
 </p>
 
-## <h2 align="center"> ✨ Pourquoi collaborer avec moi ? </h2>
+<h2 align="center"> <b>✨ Pourquoi collaborer avec moi ? </b></h2>
 
 <p align="center">
   <img src="11.png" width="400">
@@ -56,7 +56,7 @@
 
 ---
 
-## <p align="center"> 🎯 Principales forces </p>
+<p align="center"> <b>🎯 Principales forces</b> </p>
 
   <p align="center"><b>Analyse quantitative & modélisation prédictive :</b> Exploitation de modèles statistiques avancés pour des insights robustes</p>
   <p align="center"><b>Consultation méthodologique :</b> Accompagnement des chercheurs et étudiants en médecine dans leurs projets.</p>
