@@ -50,7 +50,7 @@
 </p>
 
 
-<h2 align="center"><b>🎯 Main strengths</b></h2>
+<h2 align="center"><b>🎯 Core strengths</b></h2>
 
 <p align="center"><b>Quantitative analysis & predictive modeling:</b> Using advanced statistical models for robust insights</p>
 <p align="center"><b>Methodological consulting:</b> Supporting medical researchers and students in their projects.</p>
