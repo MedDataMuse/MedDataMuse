@@ -62,7 +62,6 @@
   <p align="center"><b>Consultation méthodologique :</b> Accompagnement des chercheurs et étudiants en médecine dans leurs projets.</p>
   <p align="center"><b>Science des données & IA :</b> J’explore comment la science des données et l'IA résolvent des problèmes concrets.</p>
   <p align="center"><b>💬 Conception de protocoles & Communication scientifique, 📊 Gestion des données & Statistiques avancées</b></p>
-  <p align="center"><b></li></p>
   <p align="center"><b>💻 Programmation (R, Shiny, Python, SQL) & 👁️‍🗨️ Visualisation des données</b></p>
 
 
