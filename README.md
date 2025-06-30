@@ -56,7 +56,7 @@
 
 ---
 
-<h2 align="center"> <b>🎯 Principales forces</b> </h2>
+<h2 align="center"><b>🎯 Principales forces</b></h2>
 
   <p align="center"><b>Analyse quantitative & modélisation prédictive :</b> Exploitation de modèles statistiques avancés pour des insights robustes</p>
   <p align="center"><b>Consultation méthodologique :</b> Accompagnement des chercheurs et étudiants en médecine dans leurs projets.</p>
