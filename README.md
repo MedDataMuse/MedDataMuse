@@ -60,14 +60,13 @@
 
 ## <p align="center">🎯 Principales forces</p>
 
-<ul>
-  <li><b>Analyse quantitative & modélisation prédictive :</b> Exploitation de modèles statistiques avancés pour des insights robustes</li>
-  <li><b>Consultation méthodologique :</b> Accompagnement des chercheurs et étudiants en médecine dans leurs projets.</li>
-  <li><b>Science des données & IA :</b> J’explore comment la science des données et l'IA résolvent des problèmes concrets.</li>
-  <li><b>💬 Conception de protocoles & Communication scientifique</b></li>
-  <li><b>🗃️ Gestion des données & 📊 Statistiques avancées</b></li>
-  <li><b>💻 Programmation (R, Shiny, Python, SQL) & 👁️‍🗨️ Visualisation des données</b></li>
-</ul>
+  <p align="center"><b>Analyse quantitative & modélisation prédictive :</b> Exploitation de modèles statistiques avancés pour des insights robustes</li></p>
+  <p align="center"><b>Consultation méthodologique :</b> Accompagnement des chercheurs et étudiants en médecine dans leurs projets.</li></p>
+  <p align="center"><b>Science des données & IA :</b> J’explore comment la science des données et l'IA résolvent des problèmes concrets.</li></p>
+  <p align="center"><b>💬 Conception de protocoles & Communication scientifique, 📊 Gestion des données & Statistiques avancées</b></p>
+  <p align="center"><b></li></p>
+  <p align="center"><b>💻 Programmation (R, Shiny, Python, SQL) & 👁️‍🗨️ Visualisation des données</b></li></p>
+
 
 <p align="center">
   <img src="7.png" width="500">
@@ -92,6 +91,6 @@
 
 <p align="center">
   <a href="https://github.com/MedDataMuse?tab=repositories">
-    <b>👇🏽 Découvrez mes travaux et imaginons ensemble des projets percutants à réaliser ⬇️</b>
+    <b>👇🏽 Découvrez mes travaux ⬇️</b>
   </a>
 </p>
