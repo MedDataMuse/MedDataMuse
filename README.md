@@ -4,8 +4,6 @@
   <img src="12.png" alt="Illustration" width="850"/>
 </p>
 
----
-
 ## <h2 align="center"> ✨ Pourquoi collaborer avec moi ? </h2>
 
 <p align="center">
