@@ -1,60 +1,49 @@
 
+---
+
 <h1 align="center">👋 Hello! I am your Data Analysis Specialist</h1>
 
 <p align="center">
   <img src="12.png" alt="Illustration" width="850"/>
 </p>
 
+---
 
-## ✨ Why collaborate with me?
+## <p align="center">✨ Why collaborate with me?</p>
 
 <p align="center">
   <img src="11.png" width="400">
 </p>
 
-<table align="center">
-  <tr>
-    <td>
-      <ul>
-        <li><b>Save time and resources:</b> By doing things right from the start.</li>
-        <li><b>Obtain more reliable and valid results:</b> Allowing for stronger conclusions.</li>
-        <li><b>Increase the impact of your work:</b> By contributing significantly to medical knowledge.</li>
-        <li><b>Ensure ethical conduct:</b> By minimizing errors and misinterpretations.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="center"><b>Save time and resources:</b> By doing things right from the start.</p>
+
+<p align="center"><b>Get more reliable and valid results:</b> Allowing for stronger conclusions.</p>
+
+<p align="center"><b>Increase the impact of your work:</b> By making a significant contribution to medical knowledge.</p>
+<p align="center"><b>Ensure ethical conduct:</b> By minimizing errors and misinterpretations.</p>
 
 ---
 
-<h3 align="center">Ask the right questions, collect the right data, and draw the right conclusions to advance medical science</h3>
+<h3 align="center">✔️Ask the right questions, ✔️collect the right data, and ✔️draw the right conclusions</h3>
 
 <p align="center">
   <img src="4.png" width="400">
 </p>
 
-<table align="center">
-  <tr>
-    <td>
-      <ul>
-        <li><b>Design</b> your study for relevant answers.</li>
-        <li><b>Analyze</b> your data, even if math is not your strong point.</li>
-        <li><b>Strengthen</b> your thesis, publications, and presentations.</li>
-        <li><b>Optimize</b> your study design for maximum impact and efficiency.</li>
-        <li><b>Explore</b> deeper insights through advanced analytical techniques.</li>
-        <li><b>Elevate</b> scientific rigor and the publication potential of your research.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="center">💡<b>Design</b> your study to get relevant answers.</p>
+<p align="center">🧐<b>Analyze</b> your data, even if math is not your strong suit.</p>
+<p align="center">💪<b>Strengthen</b> your thesis, publications, and presentations.</p>
+<p align="center">🚀<b>Optimize</b> your study design for maximum impact and efficiency.</p>
+<p align="center">🔍<b>Explore</b> deeper insights using advanced analytical techniques.</p>
+<p align="center">🌟<b>Elevate</b> the scientific rigor and publication potential of your research.</p>
 
 ---
 
-<h3 align="center">Quickly understanding the unique specifics of each project</h3>
+<h3 align="center">Quick understanding of the unique specifics of each project</h3>
 
 <p align="center">
-  My approach is proactive and focused on clear and impactful work, with priority on speed and achieving objectives.<br>
-  For seamless collaboration, I provide didactic explanations that strengthen your skills and increase your autonomy.
+  My approach is proactive and focused on clear and impactful work, with priority on speed and achieving goals.<br>
+  For smooth collaboration, I offer didactic explanations that build your skills and increase your autonomy.
 </p>
 
 <p align="center">
@@ -63,22 +52,19 @@
 
 ---
 
-## 🎯 My Main Strengths
+## <p align="center">🎯 Main strengths</p>
 
-<ul>
-  <li><b>Quantitative analysis & predictive modeling:</b> Utilizing advanced statistical models for robust insights</li>
-  <li><b>Methodological consulting:</b> Supporting researchers and medical students in their projects.</li>
-  <li><b>Data Science & AI:</b> Exploring how data science and AI solve real-world problems.</li>
-  <li><b>💬 Protocol design & ✍️ Scientific communication</b></li>
-  <li><b>🗃️ Data management & 📊 Advanced statistics</b></li>
-  <li><b>💻 Programming (R, Shiny, Python, SQL) & 👁️‍🗨️ Data visualization</b></li>
-</ul>
+<p align="center"><b>Quantitative analysis & predictive modeling:</b> Using advanced statistical models for robust insights</p>
+<p align="center"><b>Methodological consulting:</b> Supporting medical researchers and students in their projects.</p>
+<p align="center"><b>Data science & AI:</b> I explore how data science and AI solve real-world problems.</p>
+<p align="center"><b>💬 Protocol design & scientific communication, 📊 Data management & advanced statistics</b></p>
+<p align="center"><b>💻 Programming (R, Shiny, Python, SQL) & 👁️‍🗨️ Data visualization</b></p>
 
 <p align="center">
   <img src="7.png" width="500">
 </p>
 
-<h2 align="center">Make strategic decisions based on data 🚀</h2>
+<h2 align="center">Make strategic, data-driven decisions 🚀</h2>
 
 <p align="center">
   <img src="1.png" width="350"/>
@@ -87,21 +73,21 @@
 
 ---
 
-<p align="center"><b>Expertise highly transferable and adaptable to any professional field</b></p>
+<p align="center"><b>Highly transferable expertise adaptable to any professional field</b></p>
 <p align="center"><b>Transparency, rigorous methodologies, documentation</b></p>
-<p align="center"><b>Quick mastery of business intelligence software</b></p>
-<p align="center"><b>Development of custom functions with R for tailored solutions</b></p>
-<p align="center"><b>Strict data quality control at every stage of the process</b></p>
+<p align="center"><b>Fast mastery of business intelligence software</b></p>
+<p align="center"><b>Development of custom functions with R for tailor-made solutions.</b></p>
+<p align="center"><b>Strict quality control of data at every stage of the process.</b></p>
 
 ---
 
 <p align="center">
   <a href="https://github.com/MedDataMuse?tab=repositories">
-    <b>👇🏽 Discover my work and let’s imagine impactful projects together ⬇️</b>
+    <b>👇🏽 Discover my work ⬇️</b>
   </a>
 </p>
 
-
+---
  <!--- add list of softwares>
 # 👋 Hello! I'm your Data Intelligence Partner 
 
