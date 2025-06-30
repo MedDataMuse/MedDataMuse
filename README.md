@@ -9,7 +9,7 @@
 
 ---
 
-<p align="center"><b>✨ Why collaborate with me?</b></p>
+<h2 align="center"><b>✨ Why collaborate with me?</b></h2>
 
 <p align="center">
   <img src="11.png" width="400">
