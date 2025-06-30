@@ -9,7 +9,7 @@
 
 ---
 
-## <p align="center">✨ Why collaborate with me?</p>
+<p align="center"><b>✨ Why collaborate with me?</b></p>
 
 <p align="center">
   <img src="11.png" width="400">
@@ -50,7 +50,7 @@
 </p>
 
 
-## <p align="center">🎯 Main strengths</p>
+<p align="center"><b>🎯 Main strengths</b></p>
 
 <p align="center"><b>Quantitative analysis & predictive modeling:</b> Using advanced statistical models for robust insights</p>
 <p align="center"><b>Methodological consulting:</b> Supporting medical researchers and students in their projects.</p>
