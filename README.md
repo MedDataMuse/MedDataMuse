@@ -79,7 +79,6 @@
   <img src="10.jpeg" width="300"/>
 </p>
 
----
 
 <p align="center"><b>Expertise hautement transférable et adaptable à tout domaine professionnel</b></p>
 <p align="center"><b>Transparence, méthodologies rigoureuses, documentations</b></p>
@@ -87,7 +86,6 @@
 <p align="center"><b>Développement de fonctions personnalisées avec R pour des solutions sur mesure.</b></p>
 <p align="center"><b>Contrôle strict de la qualité des données à chaque étape du processus.</b></p>
 
----
 
 <p align="center">
   <a href="https://github.com/MedDataMuse?tab=repositories">
