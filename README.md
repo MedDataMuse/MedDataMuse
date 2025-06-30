@@ -6,7 +6,7 @@
 
 ---
 
-## <p align="center"> ✨ Pourquoi collaborer avec moi ? </p>
+## <h2 align="center"> ✨ Pourquoi collaborer avec moi ? </h2>
 
 <p align="center">
   <img src="11.png" width="400">
