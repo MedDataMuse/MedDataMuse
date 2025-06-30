@@ -29,20 +29,19 @@
   <img src="4.png" width="400">
 </p>
 
-<table align="center">
-  <tr>
-    <td>
-      <ul>
-        <li><b>Concevez</b> votre étude pour obtenir des réponses pertinentes.</li>
-        <li><b>Analysez</b> vos données, même si les mathématiques ne sont pas votre point fort.</li>
-        <li><b>Renforcez</b> votre thèse, vos publications et vos présentations.</li>
-        <li><b>Optimisez</b> votre conception d’étude pour un impact et une efficacité maximum.</li>
-        <li><b>Explorez</b> des insights plus profonds grâce à des techniques analytiques avancées.</li>
-        <li><b>Élevez</b> la rigueur scientifique et le potentiel de publication de vos recherches.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+
+  <p align="center">💡<b>Concevez</b> votre étude pour obtenir des réponses pertinentes.</p>
+  
+  <p align="center">🧐<b>Analysez</b> vos données, même si les mathématiques ne sont pas votre point fort.</p>
+  
+  <p align="center">💪<b>Renforcez</b> votre thèse, vos publications et vos présentations.</p>
+  
+  <p align="center">🚀<b>Optimisez</b> votre conception d’étude pour un impact et une efficacité maximum.</p>
+  
+  <p align="center">🔍<b>Explorez</b> des insights plus profonds grâce à des techniques analytiques avancées.</p>
+  
+   <p align="center">🌟<b>Élevez</b> la rigueur scientifique et le potentiel de publication de vos recherches.</p>
+     
 
 ---
 
@@ -59,7 +58,7 @@
 
 ---
 
-## 🎯 Mes principales forces
+## <p align="center">🎯 Principales forces</p>
 
 <ul>
   <li><b>Analyse quantitative & modélisation prédictive :</b> Exploitation de modèles statistiques avancés pour des insights robustes</li>
