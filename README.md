@@ -6,7 +6,7 @@
 
 ---
 
-## <p align="center">✨ Pourquoi collaborer avec moi ?</p>
+## <p align="center"> ✨ Pourquoi collaborer avec moi ? </p>
 
 <p align="center">
   <img src="11.png" width="400">
@@ -58,7 +58,7 @@
 
 ---
 
-## <p align="center">🎯 Principales forces</p>
+## <p align="center"> 🎯 Principales forces </p>
 
   <p align="center"><b>Analyse quantitative & modélisation prédictive :</b> Exploitation de modèles statistiques avancés pour des insights robustes</li></p>
   <p align="center"><b>Consultation méthodologique :</b> Accompagnement des chercheurs et étudiants en médecine dans leurs projets.</li></p>
