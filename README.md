@@ -16,11 +16,13 @@
 <p align="center"><b>Assurez une conduite éthique :</b> En minimisant les erreurs et les interprétations erronées.</p>
 
 ---
+
 <p align="center">
   <a href="https://calendly.com/meddatamuse">
-    <b>✅Contactez-moi🙂</b>
+    <b>👉🏽Contactez-moi🙂</b>
   </a>
 </p>
+
 ---
 
 <p align="center">
