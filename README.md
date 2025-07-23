@@ -15,7 +15,12 @@
 <p align="center"><b>Augmentez l’impact de vos travaux :</b> En contribuant de manière significative aux connaissances médicales.</p>
 <p align="center"><b>Assurez une conduite éthique :</b> En minimisant les erreurs et les interprétations erronées.</p>
 
-
+---
+<p align="center">
+  <a href="https://calendly.com/meddatamuse">
+    <b>✅Contactez-moi🙂</b>
+  </a>
+</p>
 ---
 
 <p align="center">
@@ -23,3 +28,5 @@
     <b>👇🏽 Pour les curieux, découvrez mes travaux ⬇️ et essayez les scripts R</b>
   </a>
 </p>
+
+
