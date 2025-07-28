@@ -1,4 +1,4 @@
-<h1 align="center">📊La passion des Stats  !</h1>
+<h1 align="center">📊La Passion des Stats  !</h1>
 
 <p align="center">
   <img src="12.png" alt="Illustration" width="850"/>
