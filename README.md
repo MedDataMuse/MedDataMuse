@@ -6,7 +6,7 @@
 
 <h3 align="center">✔️Se posez les bonnes questions, ✔️collectez les bonnes données et ✔️tirez les bonnes conclusions</h3>
 <p align="center">Contribuer de manière significative aux connaissances médicales.</p>
-<p align="center"><b>Assurez une conduite éthique :</b> En minimisant les erreurs et les interprétations erronées.</p>
+<p align="center"><b>Assurez une conduite éthique :</b> Minimisez les erreurs et les interprétations erronées.</p>
 
 ---
 
