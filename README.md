@@ -4,33 +4,54 @@
   <img src="12.png" alt="Illustration" width="850"/>
 </p>
 
-Vous avez des données de vie réelle complexes et vous ne savez pas comment les structurer pour en tirer des conclusions publiable ?
+# 👩‍⚕️🔬 Biostatisticienne & Data Scientist Santé
 
-Vous avez besoin de quelqu'un qui parle le langage des cliniciens et celui des algorithmes pour valider vos modèles prédictifs ?
+Bienvenue sur mon profil. Je me positionne à l'interface entre le **terrain de soins**, la **santé publique** et la **data science**.
 
-Vous voulez une experte capable de prendre en charge l'analyse de A à Z, avec un oeil critique sur la qualité des données et une rigueur académique ?
+Vous avez des **données de vie réelle complexes** et vous ne savez pas comment les structurer pour en tirer des conclusions publiable ?  
+Vous avez besoin de quelqu'un qui parle le **langage des cliniciens** **et** celui des **algorithmes** pour valider vos modèles prédictifs ?  
+Vous voulez une **experte** capable de prendre en charge l'analyse de A à Z, avec un **œil critique sur la qualité des données** et une **rigueur académique** ?
 
-Avec mon parcours de professionnelle de santé (infirmière/Intervenante en santé publique), devenue épidémiologiste (Master Santé publique), puis biostatisticienne-data scientist, Je vous apporte la solution avec ma triple casquette de compétences: 
+Avec mon parcours de **professionnelle de santé** (infirmière / intervenante en santé publique), devenue **épidémiologiste** (Master Santé publique), puis **biostatisticienne-data scientist**, je vous apporte la solution avec ma **triple casquette** :
 
-Clinique/Soins : connaissance des patients et du terrain.
+- 🏥 **Clinique / Soins** : connaissance des patients et du terrain.
+- 🌍 **Santé publique / Épidémiologie** : maîtrise de la méthodologie des études et des déterminants de santé.
+- 📊 **Data science / Statistique** : compétence technique pour modéliser et analyser.
 
-Santé publique/Épidémiologie : maîtrise de la méthodologie des études et des déterminants de santé.
+---
 
-Data science/Statistique : compétence technique pour modéliser et analyser.
+## 🎯 Concrètement, qu'est-ce que ça change pour votre projet ?
 
-CONCRETEMENT?
+**🗣️ Je parle le langage de tout le monde.**  
+Dans une équipe de recherche, j'échange aussi bien avec un **médecin investigateur** (je connais son quotidien), qu'avec un **data manager** (en parlant de contrôles de cohérence), ou un **chef de projet** (pour expliquer les délais nécessaires à une analyse robuste).
 
-Dans une équipe de recherche, je parle le langage de tout le monde. Vous pouvez discuter avec un médecin investigateur (en connaissant son quotidien), avec un data manager (en parlant de contrôles de cohérence), et avec un chef de projet (ex: expliquer les délais nécessaires pour une analyse robuste).
+**🔍 Data intelligence.**  
+Ayant été au **point de collecte**, j'ai une idée fine de *pourquoi* certaines données sont manquantes ou bruitées. Je peux anticiper ces problèmes et en tenir compte dans mes modèles.
 
-Data intelligence: Je peux anticiper les problèmes de données. Ayant été au "point de collecte", j'ai un fine idée de pourquoi certaines données sont manquantes ou bruitées pour en tenir compte dans mes modèles.
+**📈 Orientée "impact réel".**  
+Mon passage par la santé publique m'a appris à regarder au-delà du chiffre : quel est l'impact sur la population, sur les politiques de santé ? C'est précisément ce que recherchent les études **RWE (Real World Evidence)**.
 
-Orientée "impact réel": Mon passage par la santé publique m'a appris à regarder au-delà du chiffre : quel est l'impact sur la population, sur les politiques de santé ? C'est à dire les questions principales des études RWE (Real World Evidence).
+---
 
-<h3 align="center">✔️Se poser les bonnes questions, ✔️collecter les bonnes données cliniques et ✔️tirer les bonnes conclusions</h3>
-<p align="center">Contribuez de manière significative aux connaissances médicales.</p>
-<p align="center"><b>Assurez une conduite éthique de vos études et </b> Minimisez les biais.</p>
-<h3 align="center">Je traduis les questions médicales en modèles statistiques robustes.</h3>
-<h3 align="center">Avec le machine learning, je transforme vos données en outils prédictifs au service de l'innovation en santé.</h3>
+## ✅ Ma promesse
+
+✔️ **Se poser les bonnes questions**  
+✔️ **Collecter les bonnes données cliniques**  
+✔️ **Tirer les bonnes conclusions**
+
+Contribuez de manière significative aux connaissances médicales.  
+Assurez une **conduite éthique** de vos études et **minimisez les biais**.
+
+> Je traduis les questions médicales en modèles statistiques robustes.  
+> Avec le **machine learning**, je transforme vos données en **outils prédictifs au service de l'innovation en santé**.
+
+---
+
+### 📫 Me contacter
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sehomi-az) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MedDataMuse)
+
 ---
 
 <p align="center">
