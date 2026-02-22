@@ -18,6 +18,14 @@ Santé publique/Épidémiologie : maîtrise de la méthodologie des études et d
 
 Data science/Statistique : compétence technique pour modéliser et analyser.
 
+CONCRETEMENT?
+
+Dans une équipe de recherche, je parle le langage de tout le monde. Vous pouvez discuter avec un médecin investigateur (en connaissant son quotidien), avec un data manager (en parlant de contrôles de cohérence), et avec un chef de projet (ex: expliquer les délais nécessaires pour une analyse robuste).
+
+Data intelligence: Je peux anticiper les problèmes de données. Ayant été au "point de collecte", j'ai un fine idée de pourquoi certaines données sont manquantes ou bruitées pour en tenir compte dans mes modèles.
+
+Orientée "impact réel": Mon passage par la santé publique m'a appris à regarder au-delà du chiffre : quel est l'impact sur la population, sur les politiques de santé ? C'est à dire les questions principales des études RWE (Real World Evidence).
+
 <h3 align="center">✔️Se poser les bonnes questions, ✔️collecter les bonnes données cliniques et ✔️tirer les bonnes conclusions</h3>
 <p align="center">Contribuez de manière significative aux connaissances médicales.</p>
 <p align="center"><b>Assurez une conduite éthique de vos études et </b> Minimisez les biais.</p>
