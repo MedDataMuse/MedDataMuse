@@ -10,7 +10,13 @@ Vous avez besoin de quelqu'un qui parle le langage des cliniciens et celui des a
 
 Vous voulez une experte capable de prendre en charge l'analyse de A à Z, avec un oeil critique sur la qualité des données et une rigueur académique ?
 
-Voici 20 ans d'expérience qui vous apportent la solution.
+Avec mon parcours de professionnelle de santé (infirmière/Intervenante en santé publique), devenue épidémiologiste (Master Santé publique), puis biostatisticienne-data scientist, Je vous apporte la solution avec ma triple casquette de compétences: 
+
+Clinique/Soins : connaissance des patients et du terrain.
+
+Santé publique/Épidémiologie : maîtrise de la méthodologie des études et des déterminants de santé.
+
+Data science/Statistique : compétence technique pour modéliser et analyser.
 
 <h3 align="center">✔️Se poser les bonnes questions, ✔️collecter les bonnes données cliniques et ✔️tirer les bonnes conclusions</h3>
 <p align="center">Contribuez de manière significative aux connaissances médicales.</p>
