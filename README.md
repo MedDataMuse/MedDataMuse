@@ -4,7 +4,7 @@
   <img src="12.png" alt="Illustration" width="850"/>
 </p>
 
-# 👩‍⚕️🔬 Biostatisticienne & Data Scientist Santé
+# 👩🏾‍⚕️ 🔬 Biostatisticienne & Data Scientist Santé
 
 Bienvenue sur mon profil. Je me positionne à l'interface entre le **terrain de soins**, la **santé publique** et la **data science**.
 
