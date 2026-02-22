@@ -4,6 +4,14 @@
   <img src="12.png" alt="Illustration" width="850"/>
 </p>
 
+Vous avez des données de vie réelle complexes et vous ne savez pas comment les structurer pour en tirer des conclusions publiable ?
+
+Vous avez besoin de quelqu'un qui parle le langage des cliniciens et celui des algorithmes pour valider vos modèles prédictifs ?
+
+Vous voulez une experte capable de prendre en charge l'analyse de A à Z, avec un oeil critique sur la qualité des données et une rigueur académique ?
+
+Voici 20 ans d'expérience qui vous apportent la solution.
+
 <h3 align="center">✔️Se poser les bonnes questions, ✔️collecter les bonnes données cliniques et ✔️tirer les bonnes conclusions</h3>
 <p align="center">Contribuez de manière significative aux connaissances médicales.</p>
 <p align="center"><b>Assurez une conduite éthique de vos études et </b> Minimisez les biais.</p>
