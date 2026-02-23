@@ -6,7 +6,8 @@
 
 # 👩🏾‍⚕️ 🔬 Biostatisticienne & Data Scientist Santé
 
-Bienvenue sur mon profil. Je me positionne à l'interface entre le **terrain de soins**, la **santé publique** et la **data science**.
+Bienvenue sur mon profil!!
+Je me positionne à l'interface entre le **terrain de soins**, la **santé publique** et la **data science**.
 
 Vous avez des **données de vie réelle complexes** et vous ne savez pas comment les structurer pour en tirer des conclusions publiable ?  
 Vous avez besoin de quelqu'un qui parle le **langage des cliniciens** **et** celui des **algorithmes** pour valider vos modèles prédictifs ?  
@@ -33,10 +34,10 @@ Mon passage par la santé publique m'a appris à regarder au-delà du chiffre : 
 
 ---
 
-## ✅ Ma promesse
+## ✅ Roadmap
 
 ✔️ **Se poser les bonnes questions**  
-✔️ **Collecter les bonnes données cliniques**  
+✔️ **Collecter les bonnes données**  
 ✔️ **Tirer les bonnes conclusions**
 
 Contribuez de manière significative aux connaissances médicales.  
