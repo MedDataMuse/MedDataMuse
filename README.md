@@ -54,10 +54,4 @@ Assurez une **conduite éthique** de vos études et **minimisez les biais**.
 
 ---
 
-<p align="center">
-  <a href="https://github.com/MedDataMuse?tab=repositories">
-    <b>👇🏽 Découvrez mes travaux ⬇️ </b>
-  </a>
-</p>
-
 
